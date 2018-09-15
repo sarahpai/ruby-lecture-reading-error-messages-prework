@@ -1,3 +1,5 @@
-"hello world"
+def hello_world
+raise "hello world"
 
-hello_world
+
+end
