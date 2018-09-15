@@ -1,3 +1,5 @@
-x = 1
+def x = 
 
-x = 
+raise x = 1
+
+end
