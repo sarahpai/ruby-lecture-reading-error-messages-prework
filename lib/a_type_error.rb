@@ -1,7 +1,6 @@
-eval (1 + 1)
+begin 1 + 1
 
-inspect 1 + "is the loneliest number"
-
+[1].first("is the loneliest number")
 
 
 
