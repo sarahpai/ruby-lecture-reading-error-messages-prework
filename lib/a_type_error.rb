@@ -1,5 +1,5 @@
-1+1
+to_i 1+1
 
-to i [1].first("is the loneliest number")
+[1].first("is the loneliest number")
 
 
