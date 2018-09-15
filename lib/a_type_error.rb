@@ -1,5 +1,5 @@
-1+1
+number = 1+1
 
-puts (1 + to_i). to_s + "is the loneliest number"
+puts (1 + number.to_i). to_s + "is the loneliest number"
 
 
