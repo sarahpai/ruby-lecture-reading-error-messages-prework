@@ -1,4 +1,4 @@
-def x = 
+x = 
 
 raise x = 1
 
