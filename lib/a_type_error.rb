@@ -1,6 +1,6 @@
-[1].first("is the loneliest number")
+begin [1].first("is the loneliest number")
 
-begin [1 + 1]
+end [1 + 1]
 
 
 
