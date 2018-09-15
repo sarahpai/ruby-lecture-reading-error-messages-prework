@@ -1,3 +1,5 @@
 begin x = 
 
-x = 1
+eval x = 1
+
+end
